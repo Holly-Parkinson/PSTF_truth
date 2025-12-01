@@ -1,0 +1,23 @@
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+.ipynb_checkpoints
+
+# Any large dataset files #
+###########################
+samples/
+
+# Any generated plots or pdf #
+##############################
+*.png
+*.pdf
+
+# Any .csv or .hdf5 for storing dfs #
+#####################################
+*.csv
+*.hdf5
+
+# Any .txt files from printing outputs #
+########################################
+*.txt
