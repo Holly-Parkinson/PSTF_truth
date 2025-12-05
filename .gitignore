@@ -6,6 +6,7 @@
 
 # Any large dataset files #
 ###########################
+./samples/.flat.caf.root
 .root
 
 # Any generated plots or pdf #
